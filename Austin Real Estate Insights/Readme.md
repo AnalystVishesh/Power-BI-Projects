@@ -1,6 +1,6 @@
 ## Austin Real Estate Insights: 
 
-### Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiZjU0MmE0YTEtODY2YS00MWZkLWEzNTgtNDdkMGE2YjZhNjYyIiwidCI6IjM3NjFjYzBlLWMwNmMtNGY2Zi1iYjE2LWQwYTA1NDc0OGM4YiJ9
+### Dashboard link : https://app.powerbi.com/viewr=eyJrIjoiZjU0MmE0YTEtODY2YS00MWZkLWEzNTgtNDdkMGE2YjZhNjYyIiwidCI6IjM3NjFjYzBlLWMwNmMtNGY2Zi1iYjE2LWQwYTA1NDc0OGM4YiJ9
 
 ### Problem Statement
 
